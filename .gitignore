@@ -9,6 +9,8 @@
 *.csproj
 *.unityproj
 *.sln
+*.slnx
+.lscache
 *.suo
 *.user
 *.userprefs
