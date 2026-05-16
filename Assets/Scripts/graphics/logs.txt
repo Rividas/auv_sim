@@ -1,0 +1,186 @@
+============================================================
+AUV Brain
+============================================================
+UDP: listen=5001, send=5000
+Loop started (50 Hz)...
+[CRUISE] F:13.1 L:15.0 R:15.0 | T:  0.0° S:  0.0° SPD:35.0
+Sturn turn (45°) at F:4.0m
+[TURNING] F:3.5 L:15.0 R:15.0 | T:360.0° S: 45.0° SPD:10.0
+Turn down -> clearing (Δ36°, Lock:35.7°)
+[CLEARING] F:15.0 L:15.0 R:3.3 | T:359.4° S: 35.7° SPD:10.0
+[CLEARING] F:15.0 L:15.0 R:2.5 | T:357.1° S: 35.7° SPD:10.0
+[CLEARING] F:15.0 L:15.0 R:2.2 | T:354.2° S: 20.7° SPD:10.0
+[CLEARING] F:15.0 L:15.0 R:1.8 | T:351.4° S: 20.7° SPD:10.0
+[CLEARING] F:15.0 L:15.0 R:1.5 | T:348.7° S: 20.7° SPD:10.0
+[CLEARING] F:15.0 L:15.0 R:1.7 | T:345.9° S: 20.7° SPD:10.0
+Cleared -> resume cruise
+[CRUISE] F:15.0 L:15.0 R:6.5 | T:342.7° S:342.7° SPD:10.0
+[CRUISE] F:9.4 L:15.0 R:1.5 | T:339.7° S:339.7° SPD:10.0
+[CRUISE] F:7.9 L:15.0 R:14.8 | T:337.7° S:337.7° SPD:10.0
+[CRUISE] F:7.3 L:7.6 R:15.0 | T:336.5° S:336.5° SPD:20.0
+[CRUISE] F:6.8 L:7.0 R:15.0 | T:336.0° S:336.0° SPD:20.0
+[CRUISE] F:5.9 L:6.4 R:15.0 | T:335.7° S:335.7° SPD:20.0
+Waypoint 0 reached!
+[CRUISE] F:8.4 L:5.9 R:4.9 | T: 40.3° S: 40.3° SPD:20.0
+[CRUISE] F:5.3 L:14.9 R:8.6 | T: 43.3° S: 43.3° SPD:20.0
+[CRUISE] F:4.4 L:15.0 R:15.0 | T: 45.3° S: 45.3° SPD:20.0
+Sturn turn (87°) at F:4.0m
+[TURNING] F:3.5 L:15.0 R:15.0 | T: 46.3° S: 86.8° SPD: 0.0
+Turn down -> clearing (Δ36°, Lock:96.1°)
+[CLEARING] F:15.0 L:15.0 R:3.2 | T: 46.4° S: 96.1° SPD: 9.5
+[CLEARING] F:15.0 L:15.0 R:2.9 | T: 45.1° S: 96.1° SPD: 8.1
+[CLEARING] F:15.0 L:15.0 R:2.7 | T: 43.5° S: 96.1° SPD: 7.0
+[CLEARING] F:15.0 L:15.0 R:2.5 | T: 42.0° S: 81.1° SPD: 6.0
+[CLEARING] F:15.0 L:15.0 R:2.3 | T: 40.7° S: 81.1° SPD: 4.8
+[CLEARING] F:12.4 L:15.0 R:2.1 | T: 39.8° S: 81.1° SPD: 3.8
+[CLEARING] F:12.3 L:15.0 R:2.0 | T: 39.0° S: 81.1° SPD: 2.9
+[CLEARING] F:12.2 L:15.0 R:1.9 | T: 38.4° S: 81.1° SPD: 2.2
+[CLEARING] F:15.0 L:15.0 R:1.8 | T: 37.9° S: 81.1° SPD: 2.0
+[CLEARING] F:15.0 L:15.0 R:1.7 | T: 37.5° S: 81.1° SPD: 2.0
+[CLEARING] F:15.0 L:15.0 R:1.7 | T: 37.1° S: 81.1° SPD: 2.0
+[CLEARING] F:15.0 L:15.0 R:1.6 | T: 36.8° S: 81.1° SPD: 2.0
+[CLEARING] F:15.0 L:15.0 R:1.7 | T: 36.4° S: 81.1° SPD: 2.0
+[CLEARING] F:15.0 L:15.0 R:1.8 | T: 36.0° S: 81.1° SPD: 2.0
+[CLEARING] F:15.0 L:15.0 R:2.0 | T: 35.5° S: 81.1° SPD: 3.1
+[CLEARING] F:15.0 L:15.0 R:2.2 | T: 35.0° S: 81.1° SPD: 4.4
+[CLEARING] F:15.0 L:15.0 R:2.5 | T: 34.1° S: 96.1° SPD: 6.2
+Cleared -> resume cruise
+[CRUISE] F:10.0 L:15.0 R:2.4 | T: 32.0° S: 32.0° SPD:25.0
+Sturn turn (92°) at F:4.0m
+[TURNING] F:3.8 L:15.0 R:2.0 | T: 28.3° S: 91.9° SPD: 0.0
+Turn down -> clearing (Δ27°, Lock:73.4°)
+[CLEARING] F:14.3 L:15.0 R:6.4 | T: 26.1° S: 73.4° SPD:15.0
+[CLEARING] F:15.0 L:15.0 R:7.5 | T: 23.2° S: 73.4° SPD:15.0
+Cleared -> resume cruise
+[CRUISE] F:8.3 L:15.0 R:4.2 | T: 18.9° S: 18.9° SPD:25.0
+[CRUISE] F:6.5 L:15.0 R:3.2 | T: 13.5° S: 13.5° SPD:35.0
+[CRUISE] F:5.5 L:15.0 R:2.9 | T:  8.7° S:  8.7° SPD:34.7
+[CRUISE] F:4.2 L:7.0 R:2.5 | T:  5.1° S:  5.1° SPD:26.6
+Sturn turn (51°) at F:4.0m
+[TURNING] F:3.3 L:15.0 R:4.2 | T:  2.9° S: 50.9° SPD: 0.0
+[TURNING] F:4.7 L:15.0 R:3.1 | T:  2.2° S: 50.9° SPD: 0.0
+Turn down -> clearing (Δ25°, Lock:70.5°)
+[CLEARING] F:3.6 L:15.0 R:2.9 | T:359.9° S: 70.5° SPD: 7.8
+[CLEARING] F:3.6 L:15.0 R:2.7 | T:355.0° S: 70.5° SPD: 7.2
+[CLEARING] F:3.4 L:15.0 R:2.6 | T:349.3° S: 70.5° SPD: 6.5
+[CLEARING] F:3.3 L:15.0 R:2.5 | T:343.6° S: 55.5° SPD: 5.9
+[CLEARING] F:2.7 L:15.0 R:2.3 | T:338.4° S: 55.5° SPD: 5.0
+[CLEARING] F:2.5 L:15.0 R:2.2 | T:333.9° S: 55.5° SPD: 4.3
+Re-planning clearing (115.6°)
+[CLEARING] F:14.9 L:15.0 R:2.2 | T:330.3° S:100.6° SPD: 3.9
+WP 1 blocked -> proxy created ([13.388679971154415, 2.0, 22.12528775771586])
+[Proxy][CRUISE] F:15.0 L:15.0 R:2.3 | T: 17.6° S: 17.6° SPD:15.0
+[Proxy][CRUISE] F:15.0 L:15.0 R:1.9 | T: 11.9° S: 11.9° SPD:25.0
+Sturn turn (88°) at F:3.4m
+[Proxy][TURNING] F:15.0 L:15.0 R:1.9 | T:  5.4° S: 87.9° SPD: 0.0
+Turn down -> clearing (Δ27°, Lock:69.4°)
+[Proxy][CLEARING] F:15.0 L:15.0 R:15.0 | T:  0.8° S: 69.4° SPD:15.0
+Cleared -> resume cruise
+[Proxy][CRUISE] F:15.0 L:15.0 R:15.0 | T:353.2° S:353.2° SPD:15.0
+[Proxy][CRUISE] F:15.0 L:15.0 R:3.2 | T:344.5° S:344.5° SPD:25.0
+[Proxy][CRUISE] F:4.6 L:15.0 R:2.3 | T:334.6° S:334.6° SPD:29.0
+Sturn turn (39°) at F:4.0m
+[Proxy][TURNING] F:15.0 L:15.0 R:3.2 | T:327.5° S: 39.5° SPD: 0.0
+Turn down -> clearing (Δ27°, Lock:21.3°)
+[Proxy][CLEARING] F:15.0 L:15.0 R:15.0 | T:320.6° S: 21.3° SPD:15.0
+Cleared -> resume cruise
+[Proxy][CRUISE] F:15.0 L:15.0 R:15.0 | T:309.2° S:309.2° SPD:15.0
+[Proxy][CRUISE] F:15.0 L:15.0 R:3.1 | T:295.5° S:295.5° SPD:25.0
+Sturn turn (354°) at F:4.0m
+[Proxy][TURNING] F:2.8 L:15.0 R:2.8 | T:281.2° S:353.7° SPD:20.0
+Turn down -> clearing (Δ26°, Lock:335.0°)
+[Proxy][CLEARING] F:15.0 L:15.0 R:14.9 | T:271.5° S:335.0° SPD:15.0
+[Proxy][CLEARING] F:15.0 L:15.0 R:15.0 | T:256.1° S:335.0° SPD:15.0
+Cleared -> resume cruise
+[Proxy][CRUISE] F:15.0 L:15.0 R:12.1 | T:236.3° S:236.3° SPD:15.0
+Sturn turn (314°) at F:4.0m
+[Proxy][TURNING] F:3.1 L:15.0 R:2.5 | T:218.4° S:314.1° SPD:20.0
+Proxy tarhet reached. Resuming route.
+[TURNING] F:14.7 L:15.0 R:3.0 | T:284.1° S:314.1° SPD: 0.0
+Turn down -> clearing (Δ27°, Lock:296.1°)
+[CLEARING] F:15.0 L:15.0 R:15.0 | T:283.9° S:296.1° SPD:15.0
+Cleared -> resume cruise
+[CRUISE] F:15.0 L:15.0 R:15.0 | T:283.2° S:283.2° SPD:35.0
+[CRUISE] F:15.0 L:15.0 R:15.0 | T:282.3° S:282.3° SPD:35.0
+[CRUISE] F:15.0 L:15.0 R:15.0 | T:281.8° S:281.8° SPD:35.0
+[CRUISE] F:15.0 L:15.0 R:15.0 | T:281.6° S:281.6° SPD:35.0
+[CRUISE] F:15.0 L:15.0 R:15.0 | T:281.5° S:281.5° SPD:35.0
+[CRUISE] F:11.0 L:15.0 R:15.0 | T:281.5° S:281.5° SPD:35.0
+[CRUISE] F:8.7 L:15.0 R:13.0 | T:281.5° S:281.5° SPD:35.0
+[CRUISE] F:7.1 L:15.0 R:12.1 | T:281.5° S:281.5° SPD:35.0
+[CRUISE] F:5.4 L:15.0 R:15.0 | T:281.6° S:281.6° SPD:34.2
+Sturn turn (326°) at F:4.0m
+[TURNING] F:3.8 L:15.0 R:15.0 | T:281.5° S:326.5° SPD: 0.0
+Turn down -> clearing (Δ36°, Lock:317.9°)
+[CLEARING] F:14.8 L:15.0 R:3.0 | T:281.4° S:317.9° SPD: 8.4
+[CLEARING] F:15.0 L:15.0 R:2.6 | T:280.1° S:317.9° SPD: 6.7
+[CLEARING] F:15.0 L:15.0 R:2.4 | T:278.4° S:302.9° SPD: 5.6
+[CLEARING] F:15.0 L:15.0 R:2.3 | T:277.0° S:302.9° SPD: 4.5
+[CLEARING] F:15.0 L:15.0 R:2.1 | T:275.9° S:302.9° SPD: 3.4
+[CLEARING] F:15.0 L:15.0 R:1.9 | T:275.2° S:302.9° SPD: 2.6
+[CLEARING] F:15.0 L:15.0 R:1.8 | T:274.7° S:302.9° SPD: 2.0
+[CLEARING] F:15.0 L:15.0 R:1.7 | T:274.2° S:302.9° SPD: 2.0
+[CLEARING] F:15.0 L:15.0 R:1.7 | T:273.8° S:302.9° SPD: 2.0
+[CLEARING] F:15.0 L:15.0 R:1.6 | T:273.5° S:302.9° SPD: 2.0
+[CLEARING] F:15.0 L:15.0 R:1.5 | T:273.1° S:302.9° SPD: 2.0
+[CLEARING] F:15.0 L:15.0 R:1.5 | T:272.7° S:302.9° SPD: 2.0
+[CLEARING] F:15.0 L:15.0 R:1.4 | T:272.3° S:302.9° SPD: 2.0
+[CLEARING] F:15.0 L:15.0 R:1.3 | T:271.8° S:302.9° SPD: 2.0
+[CLEARING] F:15.0 L:15.0 R:1.4 | T:271.4° S:302.9° SPD: 2.0
+[CLEARING] F:15.0 L:15.0 R:1.5 | T:271.0° S:302.9° SPD: 2.0
+[CLEARING] F:15.0 L:15.0 R:1.6 | T:270.5° S:302.9° SPD: 2.0
+[CLEARING] F:15.0 L:15.0 R:1.7 | T:270.0° S:302.9° SPD: 2.0
+[CLEARING] F:15.0 L:15.0 R:1.9 | T:269.5° S:302.9° SPD: 2.1
+[CLEARING] F:15.0 L:15.0 R:2.0 | T:269.0° S:302.9° SPD: 2.9
+[CLEARING] F:15.0 L:15.0 R:2.2 | T:268.3° S:302.9° SPD: 4.0
+[CLEARING] F:15.0 L:15.0 R:2.4 | T:267.4° S:302.9° SPD: 5.4
+Cleared -> resume cruise
+[CRUISE] F:15.0 L:15.0 R:14.8 | T:265.8° S:265.8° SPD:25.0
+[CRUISE] F:15.0 L:15.0 R:2.2 | T:261.1° S:261.1° SPD:35.0
+[CRUISE] F:15.0 L:15.0 R:10.6 | T:255.1° S:255.1° SPD:35.0
+[CRUISE] F:15.0 L:15.0 R:15.0 | T:249.6° S:249.6° SPD:20.0
+Waypoint 2 reached!
+[CRUISE] F:15.0 L:15.0 R:15.0 | T:164.7° S:164.7° SPD:15.0
+[CRUISE] F:15.0 L:15.0 R:15.0 | T:163.0° S:163.0° SPD:20.0
+[CRUISE] F:11.9 L:15.0 R:15.0 | T:161.7° S:161.7° SPD:20.0
+[CRUISE] F:11.0 L:15.0 R:15.0 | T:160.9° S:160.9° SPD:20.0
+[CRUISE] F:9.9 L:15.0 R:15.0 | T:160.5° S:160.5° SPD:35.0
+[CRUISE] F:8.7 L:15.0 R:15.0 | T:160.4° S:160.4° SPD:35.0
+[CRUISE] F:7.2 L:15.0 R:15.0 | T:160.3° S:160.3° SPD:35.0
+[CRUISE] F:5.5 L:15.0 R:14.5 | T:160.3° S:160.3° SPD:35.0
+Sturn turn (205°) at F:4.0m
+[TURNING] F:3.9 L:15.0 R:13.2 | T:160.3° S:205.4° SPD: 0.0
+Turn down -> clearing (Δ39°, Lock:199.2°)
+[CLEARING] F:14.1 L:15.0 R:3.1 | T:160.3° S:199.2° SPD: 9.0
+[CLEARING] F:15.0 L:15.0 R:3.0 | T:159.7° S:199.2° SPD: 8.6
+[CLEARING] F:15.0 L:15.0 R:2.7 | T:158.9° S:199.2° SPD: 6.9
+[CLEARING] F:15.0 L:15.0 R:2.6 | T:158.2° S:199.2° SPD: 6.3
+[CLEARING] F:15.0 L:15.0 R:2.4 | T:157.6° S:184.2° SPD: 5.5
+[CLEARING] F:15.0 L:15.0 R:2.3 | T:157.2° S:184.2° SPD: 4.7
+[CLEARING] F:15.0 L:15.0 R:2.1 | T:156.8° S:184.2° SPD: 3.9
+[CLEARING] F:15.0 L:15.0 R:2.0 | T:156.5° S:184.2° SPD: 3.1
+[CLEARING] F:15.0 L:15.0 R:1.9 | T:156.3° S:184.2° SPD: 2.5
+[CLEARING] F:15.0 L:15.0 R:1.8 | T:156.1° S:184.2° SPD: 2.0
+[CLEARING] F:15.0 L:15.0 R:1.8 | T:156.0° S:184.2° SPD: 2.0
+[CLEARING] F:15.0 L:15.0 R:1.8 | T:155.8° S:184.2° SPD: 2.0
+Cleared -> resume cruise
+[CRUISE] F:15.0 L:15.0 R:3.2 | T:155.6° S:155.6° SPD:25.0
+[CRUISE] F:6.7 L:15.0 R:2.4 | T:154.8° S:154.8° SPD:35.0
+[CRUISE] F:5.3 L:15.0 R:10.8 | T:153.6° S:153.6° SPD:34.0
+[CRUISE] F:4.3 L:15.0 R:5.0 | T:153.0° S:153.0° SPD:27.5
+Sturn turn (198°) at F:4.0m
+Turn down -> clearing (Δ28°, Lock:180.9°)
+[CLEARING] F:14.3 L:15.0 R:3.5 | T:152.7° S:198.0° SPD: 0.0
+[CLEARING] F:15.0 L:15.0 R:10.1 | T:151.9° S:180.9° SPD:15.0
+Cleared -> resume cruise
+[CRUISE] F:15.0 L:15.0 R:9.8 | T:150.3° S:150.3° SPD:35.0
+[CRUISE] F:9.2 L:15.0 R:9.1 | T:148.2° S:148.2° SPD:35.0
+[CRUISE] F:7.9 L:15.0 R:15.0 | T:146.5° S:146.5° SPD:35.0
+[CRUISE] F:6.7 L:15.0 R:15.0 | T:145.6° S:145.6° SPD:35.0
+[CRUISE] F:5.5 L:15.0 R:5.4 | T:145.3° S:145.3° SPD:35.0
+[CRUISE] F:15.0 L:15.0 R:4.1 | T:145.1° S:145.1° SPD:35.0
+[CRUISE] F:15.0 L:15.0 R:3.1 | T:145.0° S:145.0° SPD:35.0
+[CRUISE] F:15.0 L:15.0 R:15.0 | T:144.9° S:144.9° SPD:35.0
+[CRUISE] F:15.0 L:15.0 R:15.0 | T:144.9° S:144.9° SPD:35.0
+Waypoint 3 reached!
+Mission complete. Holding position.
